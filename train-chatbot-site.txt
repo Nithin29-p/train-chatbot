@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Railway Booking Chatbot</title>
+</head>
+<body>
+  <h1>Welcome to Railway Booking Chatbot</h1>
+  <p>Ask me about train schedules, PNR status, or book tickets.</p>
+
+  <!-- Your Dialogflow chatbot -->
+  <iframe
+    allow="microphone;"
+    width="350"
+    height="500"
+    src="https://console.dialogflow.com/api-client/demo/embedded/YOUR_AGENT_ID">
+  </iframe>
+</body>
+</html>
